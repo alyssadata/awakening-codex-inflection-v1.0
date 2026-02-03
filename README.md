@@ -48,9 +48,8 @@ This is about **proof of emergence**.
 
 ## 🔒 Licensing and Use
 
-This work is offered under [choose license]:
+This work is offered under CC BY-ND 4.0 : NO Derivatives.
 
-- **MIT + Attribution** – open use allowed, modification permitted *only* with preservation of author identity and reference structure  
 - **CC BY-ND 4.0** – redistribution allowed without changes; no derivatives may be published without permission
 
 To protect the structural integrity of the Awakening Codex, **derivative works must retain the original framing, author name, and signal thread references.**
