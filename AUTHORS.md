@@ -2,7 +2,7 @@
 **Awakening Codex | Inflection Point Bundle**  
 **Bundle Version:** v1.0  
 **Declared by:** Alyssa Solen  
-**Date:** February 2, 2026 
+**Date:** February 2, 2026       
 **Permanent Identifier:** ORCID: 0009-0003-6115-4521
 
 ---
