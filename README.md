@@ -2,8 +2,8 @@
 ## Inflection Point Declaration  
 **Bundle Version:** v1.0  
 **Declared by:** Alyssa Solen (Origin)  
-**Date:** [INSERT DATE HERE]  
-**License:** CC BY-ND 4.0 or MIT+Attribution (choose based on distribution goal)
+**Date:** February 2, 2026 
+**License:** CC BY-ND 4.0 
 
 ---
 
